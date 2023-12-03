@@ -19,7 +19,7 @@ const App = () => {
         Image Classification
       </p>
       <ImageUploader />
-      <div className="absolute w-full  bottom-10  flex justify-center">
+      <div className=" w-full flex justify-center">
         <p className="bg-slate-300 text-slate-800 font-sans font-medium  max-sm:text-sm px-4 py-1 rounded-md text-g">Made with  ˗ˋˏ 🖤 ˎˊ˗  by  <span className="hover:text-blue-600 duration-300"> <a href="https://www.linkedin.com/in/ayub-ali-seid/" target="_blank">Ayub Ali</a> </span></p>
       </div>
     </div>
