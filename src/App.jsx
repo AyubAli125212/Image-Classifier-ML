@@ -11,9 +11,9 @@ const App = () => {
   };
 
   return (
-    <div className="container h-screen mx-auto overflow-auto relative">
+    <div className="container h-screen mx-auto relative">
       <p
-        className="text-4xl max-sm:text-2xl text-slate-800 text-center font-extrabold mt-10 font-sans p-8"
+        className="text-4xl max-sm:text-2xl text-slate-800  text-center font-extrabold mt-10 font-sans p-8"
         style={pStyle}
       >
         Image Classification
